@@ -10,3 +10,5 @@
 - [ ] Uptime monitoring alerts
 - [ ] Disable directory indexing
 - [ ] Regularly change passwords and API keys
+- [ ] Check if there are any spam or unknown users
+      
